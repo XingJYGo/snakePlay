@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <style>
+    #map{
+      width: 500px;
+      height: 500px;
+      background-color: lightblue;
+      position: relative;
+    }
+   
+  </style>
+</head>
+<body>
+<div id="map">
+  
+</div>
+<button id="btn">模拟蛇吃到食物</button>
+<script src="tool.js"></script>
+<script src="food.js"></script>
+<script src="snake.js"></script>
+<script src="game.js"></script>
+<script>
+
+////==========前后方向设定后 ==================
+var game = new Game();
+game.start();
+
+//btn1.onclick = function(){
+//    snake.move();//修改蛇的坐标
+//    snake.render(); //真正在页面上看到蛇动起来
+//}
+
+
+
+
+</script>
+
+</body>
+</html>
