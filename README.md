@@ -1,5 +1,6 @@
 ---
-typora-root-url: image
+typora-root-url: ./
+typora-copy-images-to: ./
 ---
 
 ### **JavaScript 经典面向对象Demo-贪吃蛇**
