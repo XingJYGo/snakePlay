@@ -1,8 +1,4 @@
-/**
- * Created by luodianlei on 2018/5/18.
- */
 // 封装一个食物对象
-//为了避免全局变量污染,用自调用函数将所有的代码包裹起来
 //沙箱模式
 (function(){
   var container; //用于存储之前的食物
