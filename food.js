@@ -1,8 +1,8 @@
-// 封装一个食物对象
+﻿// 封装一个食物对象
 //沙箱模式
 (function(){
 
-	//2
+	//21
   var container; //用于存储之前的食物
   function Food(option) {
     //防止用户不传参数会报错
