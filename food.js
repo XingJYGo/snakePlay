@@ -2,7 +2,7 @@
 //沙箱模式
 (function(){
 
-	// 1
+	// 
   var container; //用于存储之前的食物
     //防止用户不传参数会报错。
     option = option || {};
