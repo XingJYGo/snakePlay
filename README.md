@@ -3,7 +3,7 @@ typora-root-url: ./
 typora-copy-images-to: ./
 ---
 
-### **JavaScript 经典面向对象Demo-贪吃蛇**
+### **JavaScript 经典面向对象Demo-贪吃蛇**..
 
 ![snake](/snake.gif)
 
