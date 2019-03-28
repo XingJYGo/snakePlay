@@ -69,7 +69,7 @@ Snake.prototype.render = function () {
 
 
 
-  game.js--设计游戏对象111
+  game.js--设计游戏对象111111111
 
 ```
 //2 开始游戏
