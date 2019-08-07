@@ -23,7 +23,7 @@ typora-copy-images-to: ./
 
 3 核心代码片段展示:
 
- food.js--设计食物对象
+ food.js--设计食物对象。
 
 ```
 function Food(option) {
