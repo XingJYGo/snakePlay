@@ -23,7 +23,7 @@ typora-copy-images-to: ./
 
 3 核心代码片段展示:
 
- food.js--设计食物对象。
+ food.js--设计食物对象
 
 ```
 function Food(option) {
@@ -69,7 +69,7 @@ Snake.prototype.render = function () {
 
 
 
-  game.js--设计游戏对象。
+  game.js--设计游戏对象
 
 ```
 //2 开始游戏
